@@ -1,0 +1,24 @@
+{
+  "name": "convert-rivaldi-cli",
+  "version": "1.0.0",
+  "description": "Mengubha file Txt dan JSON",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivaldiheriyan27/CLI.git"
+  },
+  "author": "RivaldiHeriyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivaldiheriyan27/CLI/issues"
+  },
+  "homepage": "https://github.com/rivaldiheriyan27/CLI#readme",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "prompt-sync": "^4.2.0",
+    "yargs": "13.2"
+  }
+}
